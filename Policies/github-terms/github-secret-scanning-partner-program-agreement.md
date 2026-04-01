@@ -1,4 +1,4 @@
----
+12992597c5d9d8cfc006693c54b9609d9993bc99---
 title: GitHub Secret Scanning Partner Program Agreement
 versions:
   fpt: '*'
